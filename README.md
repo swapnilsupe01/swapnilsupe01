@@ -1,6 +1,6 @@
 # Hi, I'm Swapnil Supe 👋
 
-💻 Computer Engineering Student | AI/ML Developer | Full-Stack Developer
+💻 Computer Engineering Student | AI/ML Developer | Full-Stack Developer | ERP Application | Mobile Application
 
 I build AI/ML systems, backend applications, and practical software
 solutions.
