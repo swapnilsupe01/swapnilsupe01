@@ -12,7 +12,7 @@ solutions.
 - ☕ Java & Spring Boot
 - 🌐 Full-stack applications
 - 🔬 AI research and computer vision
-
+- ⚡ Fun Fact: I use AI to accelerate my development workflow
 ## 🛠️ Tech Stack
 
 ### Languages
